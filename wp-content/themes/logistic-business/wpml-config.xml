@@ -1,0 +1,25 @@
+<!-- 
+cmsmasters_package: Logistic Business
+cmsmasters_version: 1.0.0
+-->
+<wpml-config>
+    <admin-texts>
+        <key name="cmsmasters_options_logistic_business_header">
+            <key name="logistic_business_header_top_line_short_info" />
+            <key name="logistic_business_header_button_text" />
+            <key name="logistic_business_header_add_cont_cust_html" />
+        </key>
+		<key name="cmsmasters_options_logistic_business_footer">
+            <key name="logistic_business_footer_html" />
+            <key name="logistic_business_footer_copyright" />
+        </key>
+		<key name="cmsmasters_options_logistic_business_single_project">
+            <key name="logistic_business_portfolio_project_details_title" />
+        </key>
+		<key name="cmsmasters_options_logistic_business_single_profile">
+            <key name="logistic_business_profile_post_details_title" />
+        </key>
+    </admin-texts>
+</wpml-config>
+
+
